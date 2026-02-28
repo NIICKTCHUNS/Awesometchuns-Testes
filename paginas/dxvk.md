@@ -1,14 +1,3 @@
----
-# yaml-language-server: $schema=schemas/página.schema.json
-Object type:
-    - Página
-Backlinks:
-    - programas.md
-Creation date: "2026-02-27T22:55:33Z"
-Created by:
-    - Daniel Ramos
-id: bafyreihnoyrg77lkppmnwhqpkfwpdbpoxsfjmvw75u4miryz4k4qmj4v5y
----
 # DXVK   
 Como exibir o aviso de que os shaders estão sendo compilados.   
 Vá até a pasta   

@@ -1,15 +1,3 @@
----
-# yaml-language-server: $schema=schemas/página.schema.json
-Object type:
-    - Página
-Backlinks:
-    - joguinhos-100-originais.md
-Creation date: "2026-02-27T22:32:12Z"
-Created by:
-    - Daniel Ramos
-Emoji: "\U0001F534"
-id: bafyreidcam2eq475hfsjxewc2xfui4nuukkubjbc7aydvjme6gf7khwkyi
----
 # Joguinho online 100% original   
 Para jogar aquele joguinho 100% legit no seu Linux você precisa fazer fazer alguns passos a mais do que no Windows, que seria só baixar e executar com a Steam aberta.   
 Para corrigir esses jogos do "multiplayer-fix.me" você precisa fazer o seguinte:   

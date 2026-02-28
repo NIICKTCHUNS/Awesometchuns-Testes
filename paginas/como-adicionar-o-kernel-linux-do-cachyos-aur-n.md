@@ -1,15 +1,3 @@
----
-# yaml-language-server: $schema=schemas/página.schema.json
-Object type:
-    - Página
-Backlinks:
-    - outros.md
-Creation date: "2026-02-27T22:48:52Z"
-Created by:
-    - Daniel Ramos
-Emoji: "\U0001F5A5️"
-id: bafyreigyhu2ra637kpuqs7lzemggb4duvknf5kajwrll3hwv7na7nxlgha
----
 # Como adicionar o Kernel Linux do CachyOS (AUR) no UEFI com EFIStub e efibootmgr   
 ***Depois de muito sofrimento e quebração de cabeça***   
 ```
