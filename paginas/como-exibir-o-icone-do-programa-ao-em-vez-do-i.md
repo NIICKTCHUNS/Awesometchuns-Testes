@@ -1,3 +1,5 @@
+<img src="../assets/wayland-logo-png-transparent-3042440460.png" width="64">
+
 # Como exibir o ícone do programa ao em vez do ícone do Wayland em alguns casos   
 Eu achei essa dica em algum lugar gringo que eu não dei os créditos na época, então vou ficar devendo, enfim.   
 Isso é bem simples   
